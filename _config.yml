@@ -10,13 +10,14 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "My CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Shadi_CV_2021.pdf"}
+  #- {title: "My CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Shadi_CV_2021.pdf"}
+ - {file:"Shadi_CV_2021.pdf", title: "MY CV"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
