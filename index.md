@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-![Alt Text](/assets/thumb_IMG_1146_1024.jpeg)
+#![Alt Text](/assets/thumb_IMG_1146_1024.jpeg)
 
 I’m a fourth-year PhD student in Cognitive and Information Sciences at the University of California, Merced. 
 My research focuses on cognitive and neural mechanisms of creative problem solving. I’m particularly interested in using approaches such as information theory and complex systems theory to study how interactions between the brain, the body, and the environment give rise to creative solutions. 
