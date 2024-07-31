@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Download CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Shadi_CV_2021.pdf"}
+  - {title: "Download CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Academic_CV_2024_Updated.pdf"}
   
 
 
