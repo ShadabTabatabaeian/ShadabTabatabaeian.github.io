@@ -18,14 +18,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Download CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Academic_CV_2024_Updated.pdf"}
-  
+  - {title: "Publications", url: "https://scholar.google.com/citations?user=jw2DktoAAAAJ&hl=en&oi=ao"}
 
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:stabatabaeian@ucmerced.edu"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/shadab-tabatabaeian"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=jw2DktoAAAAJ&hl=en&oi=ao"}
 
 
 
