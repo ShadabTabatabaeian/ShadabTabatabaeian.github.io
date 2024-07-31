@@ -25,6 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:stabatabaeian@ucmerced.edu"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/shadab-tabatabaeian-6768a5141"}
+  - {title: Google Scholar, icon: Google Scholar, url: "https://scholar.google.com/citations?user=jw2DktoAAAAJ&hl=en&oi=ao"}
+
 
 
 comments:
