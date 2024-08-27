@@ -19,6 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Download CV", url: "https://github.com/ShadabTabatabaeian/ShadabTabatabaeian.github.io/raw/master/Academic_CV_2024_Updated.pdf"}
   - {title: "Publications", url: "https://scholar.google.com/citations?user=jw2DktoAAAAJ&hl=en&oi=ao"}
+  - {title: "Unpublished Manuscripts", url: "https://drive.google.com/drive/folders/1gvwX7_nK-0_M7QdEI-ZFxyhlbfC0B2Ov?usp=drive_link"}
 
 
 
