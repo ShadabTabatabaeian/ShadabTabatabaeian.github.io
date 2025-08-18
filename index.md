@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: "Shadab Tabatabaeian"
 ---
 
 <img src= "assets/thumb_IMG_1146_1024.jpeg" alt="thumb_IMG_1146_1024" width="200"/>
